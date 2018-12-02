@@ -1,0 +1,28 @@
+{
+  "name": "mongonode",
+  "version": "1.0.0",
+  "description": "Mongodb driver with Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designdevy/mongonode.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "express"
+  ],
+  "author": "Muhammad Athar",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/designdevy/mongonode/issues"
+  },
+  "homepage": "https://github.com/designdevy/mongonode#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  }
+}
